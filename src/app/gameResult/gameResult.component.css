@@ -1,0 +1,9 @@
+:host {
+  display: block;
+}
+
+.cardsDiv{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
